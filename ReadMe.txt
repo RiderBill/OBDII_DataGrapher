@@ -1,4 +1,5 @@
 2016-09-28. Bill Brinson
+
 I bought an OBD II scan tool to diagnose a few mystery problems on my wife's
 2000 Mecury Sable a few years ago. The built in plotting function was almost
 useless. There is a barely functional program that will download the
