@@ -1,0 +1,1295 @@
+2013-11-03
+Run C (Still essentially cold)
+
+Live Data
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)     99
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)10.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)7.12
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)40.4
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)40.6
+Long Term Fuel Trim - Bank 1(%)5.5
+Short Term Fuel Trim -Bank 2(%)40.6
+Long Term Fuel Trim - Bank 2(%)7.8
+Fuel Rail Pressure(gauge)(kPa)264
+Engine RPM(rpm)   1592
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)18.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)11.82
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.005
+Short Term Fuel Trim Bank 2-Sensor 1(%)35.9
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)40.4
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)34.4
+Long Term Fuel Trim - Bank 1(%)7.0
+Short Term Fuel Trim -Bank 2(%)34.4
+Long Term Fuel Trim - Bank 2(%)10.2
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1484
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)16.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)10.82
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.110
+Short Term Fuel Trim Bank 1-Sensor 1(%)30.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.210
+Short Term Fuel Trim Bank 2-Sensor 1(%)30.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)40.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)27.3
+Long Term Fuel Trim - Bank 1(%)6.3
+Short Term Fuel Trim -Bank 2(%)27.3
+Long Term Fuel Trim - Bank 2(%)7.8
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1399
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)13.5
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)10.08
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.495
+Short Term Fuel Trim Bank 1-Sensor 1(%)25.0
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.645
+Short Term Fuel Trim Bank 2-Sensor 1(%)24.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)37.6
+Engine Coolant Temperature(。C)18
+Short Term Fuel Trim -Bank 1(%)22.7
+Long Term Fuel Trim - Bank 1(%)3.9
+Short Term Fuel Trim -Bank 2(%)21.9
+Long Term Fuel Trim - Bank 2(%)5.5
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1276
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)12.5
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)9.50
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.750
+Short Term Fuel Trim Bank 1-Sensor 1(%)18.0
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.830
+Short Term Fuel Trim Bank 2-Sensor 1(%)18.0
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)38.8
+Engine Coolant Temperature(。C)19
+Short Term Fuel Trim -Bank 1(%)17.2
+Long Term Fuel Trim - Bank 1(%)5.5
+Short Term Fuel Trim -Bank 2(%)17.2
+Long Term Fuel Trim - Bank 2(%)10.2
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1124
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)11.5
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)8.29
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.840
+Short Term Fuel Trim Bank 1-Sensor 1(%)15.6
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.885
+Short Term Fuel Trim Bank 2-Sensor 1(%)15.6
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)42.0
+Engine Coolant Temperature(。C)20
+Short Term Fuel Trim -Bank 1(%)14.8
+Long Term Fuel Trim - Bank 1(%)8.6
+Short Term Fuel Trim -Bank 2(%)14.8
+Long Term Fuel Trim - Bank 2(%)12.5
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1025
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)11.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)7.86
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.875
+Short Term Fuel Trim Bank 1-Sensor 1(%)14.1
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.900
+Short Term Fuel Trim Bank 2-Sensor 1(%)14.1
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.005
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)41.6
+Engine Coolant Temperature(。C)21
+Short Term Fuel Trim -Bank 1(%)12.5
+Long Term Fuel Trim - Bank 1(%)10.2
+Short Term Fuel Trim -Bank 2(%)11.7
+Long Term Fuel Trim - Bank 2(%)12.5
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)    908
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)14.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)10.40
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.875
+Short Term Fuel Trim Bank 1-Sensor 1(%)11.7
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.005
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.865
+Short Term Fuel Trim Bank 2-Sensor 1(%)10.9
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.010
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)53.3
+Engine Coolant Temperature(。C)21
+Short Term Fuel Trim -Bank 1(%)10.9
+Long Term Fuel Trim - Bank 1(%)11.7
+Short Term Fuel Trim -Bank 2(%)10.9
+Long Term Fuel Trim - Bank 2(%)14.1
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)    926
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)11.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)9.66
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.855
+Short Term Fuel Trim Bank 1-Sensor 1(%)9.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.010
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.850
+Short Term Fuel Trim Bank 2-Sensor 1(%)9.4
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.020
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)52.9
+Engine Coolant Temperature(。C)21
+Short Term Fuel Trim -Bank 1(%)7.8
+Long Term Fuel Trim - Bank 1(%)11.7
+Short Term Fuel Trim -Bank 2(%)7.8
+Long Term Fuel Trim - Bank 2(%)14.1
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)    912
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)10.5
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)9.50
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.875
+Short Term Fuel Trim Bank 1-Sensor 1(%)7.8
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.025
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.860
+Short Term Fuel Trim Bank 2-Sensor 1(%)7.8
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.035
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)52.5
+Engine Coolant Temperature(。C)21
+Short Term Fuel Trim -Bank 1(%)7.8
+Long Term Fuel Trim - Bank 1(%)12.5
+Short Term Fuel Trim -Bank 2(%)7.8
+Long Term Fuel Trim - Bank 2(%)14.1
+Fuel Rail Pressure(gauge)(kPa)261
+Engine RPM(rpm)    901
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)10.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)9.29
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.860
+Short Term Fuel Trim Bank 1-Sensor 1(%)2.3
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.040
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.890
+Short Term Fuel Trim Bank 2-Sensor 1(%)1.6
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.060
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusCL
+Calculated LOAD Value(%)51.4
+Engine Coolant Temperature(。C)22
+Short Term Fuel Trim -Bank 1(%)0.0
+Long Term Fuel Trim - Bank 1(%)11.7
+Short Term Fuel Trim -Bank 2(%)-1.6
+Long Term Fuel Trim - Bank 2(%)14.1
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)    887
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)11.5
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)9.08
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.675
+Short Term Fuel Trim Bank 1-Sensor 1(%)-3.9
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.040
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.455
+Short Term Fuel Trim Bank 2-Sensor 1(%)-2.3
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.035
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusCL
+Calculated LOAD Value(%)52.9
+Engine Coolant Temperature(。C)23
+Short Term Fuel Trim -Bank 1(%)-1.6
+Long Term Fuel Trim - Bank 1(%)11.7
+Short Term Fuel Trim -Bank 2(%)-3.1
+Long Term Fuel Trim - Bank 2(%)14.1
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)    887
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)10.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)9.08
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.790
+Short Term Fuel Trim Bank 1-Sensor 1(%)-2.3
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.040
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.775
+Short Term Fuel Trim Bank 2-Sensor 1(%)-2.3
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.025
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusCL
+Calculated LOAD Value(%)52.9
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)0.8
+Long Term Fuel Trim - Bank 1(%)12.5
+Short Term Fuel Trim -Bank 2(%)-0.8
+Long Term Fuel Trim - Bank 2(%)14.1
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)    890
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)11.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)9.18
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.755
+Short Term Fuel Trim Bank 1-Sensor 1(%)-3.9
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.090
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.505
+Short Term Fuel Trim Bank 2-Sensor 1(%)-1.6
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.050
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusCL
+Calculated LOAD Value(%)52.5
+Engine Coolant Temperature(。C)25
+Short Term Fuel Trim -Bank 1(%)-1.6
+Long Term Fuel Trim - Bank 1(%)11.7
+Short Term Fuel Trim -Bank 2(%)-2.3
+Long Term Fuel Trim - Bank 2(%)14.1
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)    887
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)10.5
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)7.02
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.885
+Short Term Fuel Trim Bank 1-Sensor 1(%)-3.9
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.180
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.895
+Short Term Fuel Trim Bank 2-Sensor 1(%)-3.1
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.250
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusCL
+Calculated LOAD Value(%)43.9
+Engine Coolant Temperature(。C)25
+Short Term Fuel Trim -Bank 1(%)-5.5
+Long Term Fuel Trim - Bank 1(%)12.5
+Short Term Fuel Trim -Bank 2(%)-5.5
+Long Term Fuel Trim - Bank 2(%)13.3
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)    888
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)10.5
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)7.02
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.560
+Short Term Fuel Trim Bank 1-Sensor 1(%)-8.6
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.145
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.695
+Short Term Fuel Trim Bank 2-Sensor 1(%)-7.8
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.255
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusCL
+Calculated LOAD Value(%)45.1
+Engine Coolant Temperature(。C)26
+Short Term Fuel Trim -Bank 1(%)-4.7
+Long Term Fuel Trim - Bank 1(%)11.7
+Short Term Fuel Trim -Bank 2(%)-4.7
+Long Term Fuel Trim - Bank 2(%)14.1
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)    890
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)11.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)7.07
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)306
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.005
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)297
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.005
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)294
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.005
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.005
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.005
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)288
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.005
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)288
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.010
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)288
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.015
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.015
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.020
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.005
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.025
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.005
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.025
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.010
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.030
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.010
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.030
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.010
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.035
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.015
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.035
+Short Term Fuel Trim Bank 2-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)37.5
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)37.5
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)10.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)3.06
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.015
+Short Term Fuel Trim Bank 1-Sensor 1(%)37.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.025
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.735
+Short Term Fuel Trim Bank 2-Sensor 1(%)35.9
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.070
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)36.5
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)35.9
+Long Term Fuel Trim - Bank 1(%)6.3
+Short Term Fuel Trim -Bank 2(%)34.4
+Long Term Fuel Trim - Bank 2(%)9.4
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1529
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)18.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)10.72
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.790
+Short Term Fuel Trim Bank 1-Sensor 1(%)32.8
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.035
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.860
+Short Term Fuel Trim Bank 2-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.050
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)56.9
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)30.5
+Long Term Fuel Trim - Bank 1(%)9.4
+Short Term Fuel Trim -Bank 2(%)30.5
+Long Term Fuel Trim - Bank 2(%)13.3
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1059
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)14.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)11.40
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.860
+Short Term Fuel Trim Bank 1-Sensor 1(%)27.3
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.040
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.895
+Short Term Fuel Trim Bank 2-Sensor 1(%)27.3
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.055
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)53.7
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)26.6
+Long Term Fuel Trim - Bank 1(%)10.2
+Short Term Fuel Trim -Bank 2(%)26.6
+Long Term Fuel Trim - Bank 2(%)13.3
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)    991
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)14.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)9.98
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.890
+Short Term Fuel Trim Bank 1-Sensor 1(%)22.7
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.055
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.920
+Short Term Fuel Trim Bank 2-Sensor 1(%)22.7
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.080
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)50.2
+Engine Coolant Temperature(。C)24
+Short Term Fuel Trim -Bank 1(%)21.9
+Long Term Fuel Trim - Bank 1(%)11.7
+Short Term Fuel Trim -Bank 2(%)20.3
+Long Term Fuel Trim - Bank 2(%)14.1
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)    929
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)12.5
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)8.87
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.900
+Short Term Fuel Trim Bank 1-Sensor 1(%)18.0
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.080
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.925
+Short Term Fuel Trim Bank 2-Sensor 1(%)17.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.120
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)39.6
+Engine Coolant Temperature(。C)25
+Short Term Fuel Trim -Bank 1(%)17.2
+Long Term Fuel Trim - Bank 1(%)10.9
+Short Term Fuel Trim -Bank 2(%)15.6
+Long Term Fuel Trim - Bank 2(%)12.5
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)    872
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)12.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)8.92
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.915
+Short Term Fuel Trim Bank 1-Sensor 1(%)14.8
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.120
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.920
+Short Term Fuel Trim Bank 2-Sensor 1(%)14.8
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.165
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)51.0
+Engine Coolant Temperature(。C)26
+Short Term Fuel Trim -Bank 1(%)14.1
+Long Term Fuel Trim - Bank 1(%)11.7
+Short Term Fuel Trim -Bank 2(%)14.1
+Long Term Fuel Trim - Bank 2(%)14.1
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)    874
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)10.5
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)8.23
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.905
+Short Term Fuel Trim Bank 1-Sensor 1(%)12.5
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.160
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.910
+Short Term Fuel Trim Bank 2-Sensor 1(%)12.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.220
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)49.0
+Engine Coolant Temperature(。C)27
+Short Term Fuel Trim -Bank 1(%)11.7
+Long Term Fuel Trim - Bank 1(%)11.7
+Short Term Fuel Trim -Bank 2(%)11.7
+Long Term Fuel Trim - Bank 2(%)13.3
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)    858
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)11.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)8.02
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.910
+Short Term Fuel Trim Bank 1-Sensor 1(%)10.9
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.210
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.900
+Short Term Fuel Trim Bank 2-Sensor 1(%)10.9
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.280
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)49.4
+Engine Coolant Temperature(。C)28
+Short Term Fuel Trim -Bank 1(%)9.4
+Long Term Fuel Trim - Bank 1(%)10.9
+Short Term Fuel Trim -Bank 2(%)7.0
+Long Term Fuel Trim - Bank 2(%)13.3
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)    836
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)11.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)8.29
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.885
+Short Term Fuel Trim Bank 1-Sensor 1(%)0.8
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.255
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.865
+Short Term Fuel Trim Bank 2-Sensor 1(%)0.0
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.320
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusCL
+Calculated LOAD Value(%)49.8
+Engine Coolant Temperature(。C)28
+Short Term Fuel Trim -Bank 1(%)-0.8
+Long Term Fuel Trim - Bank 1(%)10.9
+Short Term Fuel Trim -Bank 2(%)-2.3
+Long Term Fuel Trim - Bank 2(%)13.3
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)    855
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)11.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)8.39
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.765
+Short Term Fuel Trim Bank 1-Sensor 1(%)-3.9
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.285
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.700
+Short Term Fuel Trim Bank 2-Sensor 1(%)-5.5
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.305
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusCL
+Calculated LOAD Value(%)51.0
+Engine Coolant Temperature(。C)27
+Short Term Fuel Trim -Bank 1(%)-6.3
+Long Term Fuel Trim - Bank 1(%)11.7
+Short Term Fuel Trim -Bank 2(%)-5.5
+Long Term Fuel Trim - Bank 2(%)13.3
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)    854
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)12.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.00
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.005
+Short Term Fuel Trim Bank 1-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.020
+Short Term Fuel Trim Bank 2-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.105
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)29
+Short Term Fuel Trim -Bank 1(%)34.4
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)34.4
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)306
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.035
+Short Term Fuel Trim Bank 2-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.010
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)29
+Short Term Fuel Trim -Bank 1(%)34.4
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)34.4
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)297
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.025
+Short Term Fuel Trim Bank 2-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)29
+Short Term Fuel Trim -Bank 1(%)34.4
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)34.4
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)294
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.020
+Short Term Fuel Trim Bank 2-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)29
+Short Term Fuel Trim -Bank 1(%)34.4
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)34.4
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.015
+Short Term Fuel Trim Bank 2-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)28
+Short Term Fuel Trim -Bank 1(%)34.4
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)34.4
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)288
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.015
+Short Term Fuel Trim Bank 2-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)28
+Short Term Fuel Trim -Bank 1(%)34.4
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)34.4
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)288
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.015
+Short Term Fuel Trim Bank 2-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)28
+Short Term Fuel Trim -Bank 1(%)34.4
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)34.4
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)288
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.010
+Short Term Fuel Trim Bank 2-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)28
+Short Term Fuel Trim -Bank 1(%)34.4
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)34.4
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.010
+Short Term Fuel Trim Bank 2-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)28
+Short Term Fuel Trim -Bank 1(%)34.4
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)34.4
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.010
+Short Term Fuel Trim Bank 2-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+Fuel system 1 statusOL
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)28
+Short Term Fuel Trim -Bank 1(%)34.4
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)34.4
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)16
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.010
+Short Term Fuel Trim Bank 2-Sensor 1(%)34.4
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+----------------------
+
+
+

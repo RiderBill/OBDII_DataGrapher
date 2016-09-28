@@ -1,0 +1,3276 @@
+2013-11-02
+3rd and 4th tests.  Started from Harbor Freight.
+A little rough.  Was rougher before I started recording.
+
+
+Live Data
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)34
+Air Flow Rate from Mass Air Flow(g/s)0.05
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)34
+Air Flow Rate from Mass Air Flow(g/s)0.05
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)34
+Air Flow Rate from Mass Air Flow(g/s)0.05
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)34
+Air Flow Rate from Mass Air Flow(g/s)0.05
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)35
+Air Flow Rate from Mass Air Flow(g/s)0.05
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)35
+Air Flow Rate from Mass Air Flow(g/s)0.05
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)35
+Air Flow Rate from Mass Air Flow(g/s)2.37
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)258
+Engine RPM(rpm)    990
+Ignition Timing Advanece for #1 Cylinder(。)26.0
+Intake Air Temperature(。C)35
+Air Flow Rate from Mass Air Flow(g/s)5.49
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)339
+Engine RPM(rpm)   1186
+Ignition Timing Advanece for #1 Cylinder(。)25.0
+Intake Air Temperature(。C)35
+Air Flow Rate from Mass Air Flow(g/s)5.59
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)318
+Engine RPM(rpm)    988
+Ignition Timing Advanece for #1 Cylinder(。)24.0
+Intake Air Temperature(。C)34
+Air Flow Rate from Mass Air Flow(g/s)5.28
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)96
+Fuel Rail Pressure(gauge)(kPa)312
+Engine RPM(rpm)    875
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)34
+Air Flow Rate from Mass Air Flow(g/s)6.07
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)96
+Fuel Rail Pressure(gauge)(kPa)288
+Engine RPM(rpm)    743
+Ignition Timing Advanece for #1 Cylinder(。)14.5
+Intake Air Temperature(。C)34
+Air Flow Rate from Mass Air Flow(g/s)6.12
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)303
+Engine RPM(rpm)    774
+Ignition Timing Advanece for #1 Cylinder(。)14.0
+Intake Air Temperature(。C)33
+Air Flow Rate from Mass Air Flow(g/s)5.86
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)294
+Engine RPM(rpm)    752
+Ignition Timing Advanece for #1 Cylinder(。)20.0
+Intake Air Temperature(。C)33
+Air Flow Rate from Mass Air Flow(g/s)5.96
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)288
+Engine RPM(rpm)    683
+Ignition Timing Advanece for #1 Cylinder(。)17.0
+Intake Air Temperature(。C)32
+Air Flow Rate from Mass Air Flow(g/s)5.70
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)303
+Engine RPM(rpm)    710
+Ignition Timing Advanece for #1 Cylinder(。)22.0
+Intake Air Temperature(。C)32
+Air Flow Rate from Mass Air Flow(g/s)5.54
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)294
+Engine RPM(rpm)    745
+Ignition Timing Advanece for #1 Cylinder(。)16.5
+Intake Air Temperature(。C)32
+Air Flow Rate from Mass Air Flow(g/s)6.07
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)309
+Engine RPM(rpm)    765
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)32
+Air Flow Rate from Mass Air Flow(g/s)5.43
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)306
+Engine RPM(rpm)    759
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)5.28
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)306
+Engine RPM(rpm)    762
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)5.28
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)300
+Engine RPM(rpm)    754
+Ignition Timing Advanece for #1 Cylinder(。)18.0
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)5.12
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)297
+Engine RPM(rpm)    765
+Ignition Timing Advanece for #1 Cylinder(。)18.5
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.96
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)300
+Engine RPM(rpm)    781
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.91
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)297
+Engine RPM(rpm)    769
+Ignition Timing Advanece for #1 Cylinder(。)18.0
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.75
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)303
+Engine RPM(rpm)    765
+Ignition Timing Advanece for #1 Cylinder(。)18.5
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.80
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)96
+Fuel Rail Pressure(gauge)(kPa)300
+Engine RPM(rpm)    769
+Ignition Timing Advanece for #1 Cylinder(。)18.0
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.48
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)96
+Fuel Rail Pressure(gauge)(kPa)309
+Engine RPM(rpm)    795
+Ignition Timing Advanece for #1 Cylinder(。)17.0
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.54
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)96
+Fuel Rail Pressure(gauge)(kPa)306
+Engine RPM(rpm)    806
+Ignition Timing Advanece for #1 Cylinder(。)17.0
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.54
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)96
+Fuel Rail Pressure(gauge)(kPa)309
+Engine RPM(rpm)    760
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.70
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)97
+Fuel Rail Pressure(gauge)(kPa)309
+Engine RPM(rpm)    866
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.85
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)98
+Fuel Rail Pressure(gauge)(kPa)306
+Engine RPM(rpm)    831
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)30
+Air Flow Rate from Mass Air Flow(g/s)4.64
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)98
+Fuel Rail Pressure(gauge)(kPa)309
+Engine RPM(rpm)    776
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)30
+Air Flow Rate from Mass Air Flow(g/s)4.54
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)99
+Fuel Rail Pressure(gauge)(kPa)303
+Engine RPM(rpm)    751
+Ignition Timing Advanece for #1 Cylinder(。)16.5
+Intake Air Temperature(。C)30
+Air Flow Rate from Mass Air Flow(g/s)4.54
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)99
+Fuel Rail Pressure(gauge)(kPa)297
+Engine RPM(rpm)    669
+Ignition Timing Advanece for #1 Cylinder(。)14.0
+Intake Air Temperature(。C)30
+Air Flow Rate from Mass Air Flow(g/s)4.54
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)100
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)   1017
+Ignition Timing Advanece for #1 Cylinder(。)23.0
+Intake Air Temperature(。C)30
+Air Flow Rate from Mass Air Flow(g/s)19.96
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)100
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1607
+Ignition Timing Advanece for #1 Cylinder(。)37.0
+Intake Air Temperature(。C)29
+Air Flow Rate from Mass Air Flow(g/s)20.70
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)100
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)   1773
+Ignition Timing Advanece for #1 Cylinder(。)40.0
+Intake Air Temperature(。C)29
+Air Flow Rate from Mass Air Flow(g/s)23.50
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)100
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   2062
+Ignition Timing Advanece for #1 Cylinder(。)22.0
+Intake Air Temperature(。C)28
+Air Flow Rate from Mass Air Flow(g/s)29.62
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)100
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1864
+Ignition Timing Advanece for #1 Cylinder(。)32.0
+Intake Air Temperature(。C)28
+Air Flow Rate from Mass Air Flow(g/s)29.52
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)99
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1969
+Ignition Timing Advanece for #1 Cylinder(。)32.5
+Intake Air Temperature(。C)28
+Air Flow Rate from Mass Air Flow(g/s)31.37
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)98
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   2079
+Ignition Timing Advanece for #1 Cylinder(。)32.0
+Intake Air Temperature(。C)27
+Air Flow Rate from Mass Air Flow(g/s)32.47
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)98
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   2199
+Ignition Timing Advanece for #1 Cylinder(。)32.5
+Intake Air Temperature(。C)27
+Air Flow Rate from Mass Air Flow(g/s)34.01
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)98
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   2329
+Ignition Timing Advanece for #1 Cylinder(。)32.5
+Intake Air Temperature(。C)27
+Air Flow Rate from Mass Air Flow(g/s)34.64
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)98
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   2150
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)27
+Air Flow Rate from Mass Air Flow(g/s)31.26
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)98
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   2000
+Ignition Timing Advanece for #1 Cylinder(。)31.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)29.36
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)98
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   2000
+Ignition Timing Advanece for #1 Cylinder(。)32.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)29.89
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)97
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   2021
+Ignition Timing Advanece for #1 Cylinder(。)32.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)29.52
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)96
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   2067
+Ignition Timing Advanece for #1 Cylinder(。)32.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)44.57
+----------------------
+Fuel system 1 statusOL-Drive
+Engine Coolant Temperature(。C)96
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   2450
+Ignition Timing Advanece for #1 Cylinder(。)23.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)57.98
+----------------------
+Fuel system 1 statusOL-Drive
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   3152
+Ignition Timing Advanece for #1 Cylinder(。)22.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)62.95
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)94
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   3293
+Ignition Timing Advanece for #1 Cylinder(。)26.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)64.37
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)94
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   3474
+Ignition Timing Advanece for #1 Cylinder(。)27.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)67.65
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)94
+Fuel Rail Pressure(gauge)(kPa)294
+Engine RPM(rpm)   2751
+Ignition Timing Advanece for #1 Cylinder(。)40.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)26.93
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)94
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)   2174
+Ignition Timing Advanece for #1 Cylinder(。)41.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)25.19
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)93
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1893
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)24.08
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)93
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1879
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)14.78
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)92
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)   1679
+Ignition Timing Advanece for #1 Cylinder(。)24.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)22.76
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)91
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1858
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)23.60
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)91
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1854
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)23.28
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)90
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1845
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)22.97
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)90
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1848
+Ignition Timing Advanece for #1 Cylinder(。)37.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)24.24
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)90
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1850
+Ignition Timing Advanece for #1 Cylinder(。)36.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)25.03
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)89
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1950
+Ignition Timing Advanece for #1 Cylinder(。)33.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)26.82
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)89
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1907
+Ignition Timing Advanece for #1 Cylinder(。)33.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)27.67
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)89
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1940
+Ignition Timing Advanece for #1 Cylinder(。)33.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)27.67
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)89
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1929
+Ignition Timing Advanece for #1 Cylinder(。)34.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)25.77
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)88
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1901
+Ignition Timing Advanece for #1 Cylinder(。)35.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)26.14
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)88
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1911
+Ignition Timing Advanece for #1 Cylinder(。)36.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)24.82
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)88
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1661
+Ignition Timing Advanece for #1 Cylinder(。)42.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)18.85
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)87
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1824
+Ignition Timing Advanece for #1 Cylinder(。)40.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)22.65
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)87
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1850
+Ignition Timing Advanece for #1 Cylinder(。)41.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)21.81
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)87
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1828
+Ignition Timing Advanece for #1 Cylinder(。)42.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)21.12
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)87
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1810
+Ignition Timing Advanece for #1 Cylinder(。)42.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)20.70
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)87
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1794
+Ignition Timing Advanece for #1 Cylinder(。)42.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)20.27
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)87
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1635
+Ignition Timing Advanece for #1 Cylinder(。)40.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)18.69
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)87
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1514
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)18.11
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)86
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1492
+Ignition Timing Advanece for #1 Cylinder(。)38.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)17.53
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)86
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1490
+Ignition Timing Advanece for #1 Cylinder(。)37.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)17.26
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)86
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1492
+Ignition Timing Advanece for #1 Cylinder(。)38.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)17.74
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)85
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1494
+Ignition Timing Advanece for #1 Cylinder(。)42.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)10.56
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)85
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1553
+Ignition Timing Advanece for #1 Cylinder(。)43.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)8.44
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)85
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)   1515
+Ignition Timing Advanece for #1 Cylinder(。)40.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)7.23
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)85
+Fuel Rail Pressure(gauge)(kPa)300
+Engine RPM(rpm)   1471
+Ignition Timing Advanece for #1 Cylinder(。)37.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)6.60
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)85
+Fuel Rail Pressure(gauge)(kPa)297
+Engine RPM(rpm)   1461
+Ignition Timing Advanece for #1 Cylinder(。)35.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)6.65
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)85
+Fuel Rail Pressure(gauge)(kPa)297
+Engine RPM(rpm)   1440
+Ignition Timing Advanece for #1 Cylinder(。)33.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)6.86
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)85
+Fuel Rail Pressure(gauge)(kPa)303
+Engine RPM(rpm)   1424
+Ignition Timing Advanece for #1 Cylinder(。)31.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)6.54
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)85
+Fuel Rail Pressure(gauge)(kPa)300
+Engine RPM(rpm)   1405
+Ignition Timing Advanece for #1 Cylinder(。)30.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)6.60
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)84
+Fuel Rail Pressure(gauge)(kPa)294
+Engine RPM(rpm)   1482
+Ignition Timing Advanece for #1 Cylinder(。)27.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)13.57
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)84
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)   1589
+Ignition Timing Advanece for #1 Cylinder(。)37.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)13.73
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)84
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1515
+Ignition Timing Advanece for #1 Cylinder(。)46.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)11.72
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)84
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1456
+Ignition Timing Advanece for #1 Cylinder(。)49.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)11.77
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)84
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1465
+Ignition Timing Advanece for #1 Cylinder(。)46.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)12.09
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)84
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1469
+Ignition Timing Advanece for #1 Cylinder(。)47.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)11.82
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1475
+Ignition Timing Advanece for #1 Cylinder(。)47.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)12.04
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1479
+Ignition Timing Advanece for #1 Cylinder(。)48.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)11.61
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)288
+Engine RPM(rpm)   1481
+Ignition Timing Advanece for #1 Cylinder(。)48.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)11.72
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1480
+Ignition Timing Advanece for #1 Cylinder(。)48.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)11.35
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1476
+Ignition Timing Advanece for #1 Cylinder(。)49.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)12.83
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1482
+Ignition Timing Advanece for #1 Cylinder(。)44.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)12.62
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1483
+Ignition Timing Advanece for #1 Cylinder(。)44.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)13.41
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)264
+Engine RPM(rpm)   1503
+Ignition Timing Advanece for #1 Cylinder(。)21.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)19.54
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1480
+Ignition Timing Advanece for #1 Cylinder(。)36.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)19.22
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1470
+Ignition Timing Advanece for #1 Cylinder(。)36.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)20.06
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1462
+Ignition Timing Advanece for #1 Cylinder(。)34.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)21.81
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1421
+Ignition Timing Advanece for #1 Cylinder(。)32.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)22.76
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1412
+Ignition Timing Advanece for #1 Cylinder(。)29.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)22.02
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1404
+Ignition Timing Advanece for #1 Cylinder(。)28.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)21.81
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1409
+Ignition Timing Advanece for #1 Cylinder(。)31.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)21.60
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1406
+Ignition Timing Advanece for #1 Cylinder(。)29.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)24.08
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1410
+Ignition Timing Advanece for #1 Cylinder(。)26.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)22.76
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1430
+Ignition Timing Advanece for #1 Cylinder(。)28.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)20.80
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1443
+Ignition Timing Advanece for #1 Cylinder(。)37.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)16.10
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1475
+Ignition Timing Advanece for #1 Cylinder(。)41.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)17.05
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)264
+Engine RPM(rpm)   1560
+Ignition Timing Advanece for #1 Cylinder(。)41.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)16.63
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1513
+Ignition Timing Advanece for #1 Cylinder(。)48.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)13.62
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1513
+Ignition Timing Advanece for #1 Cylinder(。)47.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)10.45
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1587
+Ignition Timing Advanece for #1 Cylinder(。)43.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)8.66
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1551
+Ignition Timing Advanece for #1 Cylinder(。)28.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.94
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)264
+Engine RPM(rpm)   1756
+Ignition Timing Advanece for #1 Cylinder(。)41.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)18.95
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1754
+Ignition Timing Advanece for #1 Cylinder(。)47.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)17.00
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1654
+Ignition Timing Advanece for #1 Cylinder(。)46.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.73
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1636
+Ignition Timing Advanece for #1 Cylinder(。)46.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.26
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1600
+Ignition Timing Advanece for #1 Cylinder(。)50.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)13.99
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1614
+Ignition Timing Advanece for #1 Cylinder(。)47.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.05
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1611
+Ignition Timing Advanece for #1 Cylinder(。)45.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.73
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1601
+Ignition Timing Advanece for #1 Cylinder(。)44.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)16.47
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1592
+Ignition Timing Advanece for #1 Cylinder(。)43.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)16.74
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1589
+Ignition Timing Advanece for #1 Cylinder(。)40.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)18.11
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1562
+Ignition Timing Advanece for #1 Cylinder(。)39.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)18.37
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1555
+Ignition Timing Advanece for #1 Cylinder(。)39.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)17.26
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1545
+Ignition Timing Advanece for #1 Cylinder(。)42.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)16.89
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1558
+Ignition Timing Advanece for #1 Cylinder(。)41.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)16.21
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1553
+Ignition Timing Advanece for #1 Cylinder(。)42.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)16.53
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1552
+Ignition Timing Advanece for #1 Cylinder(。)43.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.42
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1557
+Ignition Timing Advanece for #1 Cylinder(。)44.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.73
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)   1564
+Ignition Timing Advanece for #1 Cylinder(。)44.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.84
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1577
+Ignition Timing Advanece for #1 Cylinder(。)43.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)16.21
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1588
+Ignition Timing Advanece for #1 Cylinder(。)44.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.20
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1591
+Ignition Timing Advanece for #1 Cylinder(。)46.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)14.73
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1606
+Ignition Timing Advanece for #1 Cylinder(。)46.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)14.73
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1611
+Ignition Timing Advanece for #1 Cylinder(。)46.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)14.41
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1614
+Ignition Timing Advanece for #1 Cylinder(。)51.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)12.04
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1707
+Ignition Timing Advanece for #1 Cylinder(。)43.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)10.13
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1669
+Ignition Timing Advanece for #1 Cylinder(。)44.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)8.29
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1605
+Ignition Timing Advanece for #1 Cylinder(。)41.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)7.07
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1539
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)6.97
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1463
+Ignition Timing Advanece for #1 Cylinder(。)36.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)6.91
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1414
+Ignition Timing Advanece for #1 Cylinder(。)34.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)6.70
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1345
+Ignition Timing Advanece for #1 Cylinder(。)32.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)6.39
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1298
+Ignition Timing Advanece for #1 Cylinder(。)30.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)6.23
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1228
+Ignition Timing Advanece for #1 Cylinder(。)29.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)5.86
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1132
+Ignition Timing Advanece for #1 Cylinder(。)28.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)5.75
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1105
+Ignition Timing Advanece for #1 Cylinder(。)27.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)6.44
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1183
+Ignition Timing Advanece for #1 Cylinder(。)26.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)7.55
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1430
+Ignition Timing Advanece for #1 Cylinder(。)25.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)7.55
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1357
+Ignition Timing Advanece for #1 Cylinder(。)24.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)7.39
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1270
+Ignition Timing Advanece for #1 Cylinder(。)24.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)7.18
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1244
+Ignition Timing Advanece for #1 Cylinder(。)23.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)7.07
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1316
+Ignition Timing Advanece for #1 Cylinder(。)30.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)17.74
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1731
+Ignition Timing Advanece for #1 Cylinder(。)37.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)23.39
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1753
+Ignition Timing Advanece for #1 Cylinder(。)38.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)23.18
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1774
+Ignition Timing Advanece for #1 Cylinder(。)37.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)25.77
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1868
+Ignition Timing Advanece for #1 Cylinder(。)35.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)27.30
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1916
+Ignition Timing Advanece for #1 Cylinder(。)34.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)27.40
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1950
+Ignition Timing Advanece for #1 Cylinder(。)34.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)27.56
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1969
+Ignition Timing Advanece for #1 Cylinder(。)37.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)23.60
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1935
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)23.87
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1956
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)25.77
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   2011
+Ignition Timing Advanece for #1 Cylinder(。)37.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)26.45
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1973
+Ignition Timing Advanece for #1 Cylinder(。)34.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)25.98
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1789
+Ignition Timing Advanece for #1 Cylinder(。)33.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)25.98
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1853
+Ignition Timing Advanece for #1 Cylinder(。)33.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)26.61
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1910
+Ignition Timing Advanece for #1 Cylinder(。)34.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)27.40
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1974
+Ignition Timing Advanece for #1 Cylinder(。)34.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)27.40
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1607
+Ignition Timing Advanece for #1 Cylinder(。)32.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)20.49
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1439
+Ignition Timing Advanece for #1 Cylinder(。)32.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)20.80
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1543
+Ignition Timing Advanece for #1 Cylinder(。)34.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)20.80
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1523
+Ignition Timing Advanece for #1 Cylinder(。)35.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)19.64
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1481
+Ignition Timing Advanece for #1 Cylinder(。)43.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)14.47
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1477
+Ignition Timing Advanece for #1 Cylinder(。)42.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)14.47
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1481
+Ignition Timing Advanece for #1 Cylinder(。)41.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)16.00
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1521
+Ignition Timing Advanece for #1 Cylinder(。)36.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)17.74
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1473
+Ignition Timing Advanece for #1 Cylinder(。)39.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)16.00
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1440
+Ignition Timing Advanece for #1 Cylinder(。)45.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)13.99
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)264
+Engine RPM(rpm)   1448
+Ignition Timing Advanece for #1 Cylinder(。)39.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)13.88
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1430
+Ignition Timing Advanece for #1 Cylinder(。)40.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)14.41
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1398
+Ignition Timing Advanece for #1 Cylinder(。)44.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)12.62
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1384
+Ignition Timing Advanece for #1 Cylinder(。)39.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)16.37
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1388
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)15.57
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1403
+Ignition Timing Advanece for #1 Cylinder(。)34.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)18.69
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1374
+Ignition Timing Advanece for #1 Cylinder(。)35.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)18.37
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1375
+Ignition Timing Advanece for #1 Cylinder(。)35.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)18.27
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1372
+Ignition Timing Advanece for #1 Cylinder(。)37.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)17.16
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1392
+Ignition Timing Advanece for #1 Cylinder(。)34.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)18.37
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1378
+Ignition Timing Advanece for #1 Cylinder(。)36.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)17.53
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1388
+Ignition Timing Advanece for #1 Cylinder(。)35.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)17.42
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1390
+Ignition Timing Advanece for #1 Cylinder(。)35.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)15.26
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1372
+Ignition Timing Advanece for #1 Cylinder(。)44.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)12.93
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1377
+Ignition Timing Advanece for #1 Cylinder(。)39.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)14.94
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1401
+Ignition Timing Advanece for #1 Cylinder(。)34.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)16.79
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1384
+Ignition Timing Advanece for #1 Cylinder(。)36.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)16.63
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1388
+Ignition Timing Advanece for #1 Cylinder(。)37.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)14.94
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1374
+Ignition Timing Advanece for #1 Cylinder(。)45.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)14.10
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1380
+Ignition Timing Advanece for #1 Cylinder(。)40.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)14.94
+----------------------
+
+
+Live Data
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)34
+Air Flow Rate from Mass Air Flow(g/s)0.05
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)34
+Air Flow Rate from Mass Air Flow(g/s)0.05
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)34
+Air Flow Rate from Mass Air Flow(g/s)0.05
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)34
+Air Flow Rate from Mass Air Flow(g/s)0.05
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)35
+Air Flow Rate from Mass Air Flow(g/s)0.05
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)35
+Air Flow Rate from Mass Air Flow(g/s)0.05
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)      0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)35
+Air Flow Rate from Mass Air Flow(g/s)2.37
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)258
+Engine RPM(rpm)    990
+Ignition Timing Advanece for #1 Cylinder(。)26.0
+Intake Air Temperature(。C)35
+Air Flow Rate from Mass Air Flow(g/s)5.49
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)339
+Engine RPM(rpm)   1186
+Ignition Timing Advanece for #1 Cylinder(。)25.0
+Intake Air Temperature(。C)35
+Air Flow Rate from Mass Air Flow(g/s)5.59
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)318
+Engine RPM(rpm)    988
+Ignition Timing Advanece for #1 Cylinder(。)24.0
+Intake Air Temperature(。C)34
+Air Flow Rate from Mass Air Flow(g/s)5.28
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)96
+Fuel Rail Pressure(gauge)(kPa)312
+Engine RPM(rpm)    875
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)34
+Air Flow Rate from Mass Air Flow(g/s)6.07
+----------------------
+Fuel system 1 statusOL
+Engine Coolant Temperature(。C)96
+Fuel Rail Pressure(gauge)(kPa)288
+Engine RPM(rpm)    743
+Ignition Timing Advanece for #1 Cylinder(。)14.5
+Intake Air Temperature(。C)34
+Air Flow Rate from Mass Air Flow(g/s)6.12
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)303
+Engine RPM(rpm)    774
+Ignition Timing Advanece for #1 Cylinder(。)14.0
+Intake Air Temperature(。C)33
+Air Flow Rate from Mass Air Flow(g/s)5.86
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)294
+Engine RPM(rpm)    752
+Ignition Timing Advanece for #1 Cylinder(。)20.0
+Intake Air Temperature(。C)33
+Air Flow Rate from Mass Air Flow(g/s)5.96
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)288
+Engine RPM(rpm)    683
+Ignition Timing Advanece for #1 Cylinder(。)17.0
+Intake Air Temperature(。C)32
+Air Flow Rate from Mass Air Flow(g/s)5.70
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)303
+Engine RPM(rpm)    710
+Ignition Timing Advanece for #1 Cylinder(。)22.0
+Intake Air Temperature(。C)32
+Air Flow Rate from Mass Air Flow(g/s)5.54
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)294
+Engine RPM(rpm)    745
+Ignition Timing Advanece for #1 Cylinder(。)16.5
+Intake Air Temperature(。C)32
+Air Flow Rate from Mass Air Flow(g/s)6.07
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)309
+Engine RPM(rpm)    765
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)32
+Air Flow Rate from Mass Air Flow(g/s)5.43
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)306
+Engine RPM(rpm)    759
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)5.28
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)306
+Engine RPM(rpm)    762
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)5.28
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)300
+Engine RPM(rpm)    754
+Ignition Timing Advanece for #1 Cylinder(。)18.0
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)5.12
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)297
+Engine RPM(rpm)    765
+Ignition Timing Advanece for #1 Cylinder(。)18.5
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.96
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)300
+Engine RPM(rpm)    781
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.91
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)297
+Engine RPM(rpm)    769
+Ignition Timing Advanece for #1 Cylinder(。)18.0
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.75
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)303
+Engine RPM(rpm)    765
+Ignition Timing Advanece for #1 Cylinder(。)18.5
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.80
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)96
+Fuel Rail Pressure(gauge)(kPa)300
+Engine RPM(rpm)    769
+Ignition Timing Advanece for #1 Cylinder(。)18.0
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.48
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)96
+Fuel Rail Pressure(gauge)(kPa)309
+Engine RPM(rpm)    795
+Ignition Timing Advanece for #1 Cylinder(。)17.0
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.54
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)96
+Fuel Rail Pressure(gauge)(kPa)306
+Engine RPM(rpm)    806
+Ignition Timing Advanece for #1 Cylinder(。)17.0
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.54
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)96
+Fuel Rail Pressure(gauge)(kPa)309
+Engine RPM(rpm)    760
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.70
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)97
+Fuel Rail Pressure(gauge)(kPa)309
+Engine RPM(rpm)    866
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)31
+Air Flow Rate from Mass Air Flow(g/s)4.85
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)98
+Fuel Rail Pressure(gauge)(kPa)306
+Engine RPM(rpm)    831
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)30
+Air Flow Rate from Mass Air Flow(g/s)4.64
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)98
+Fuel Rail Pressure(gauge)(kPa)309
+Engine RPM(rpm)    776
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)30
+Air Flow Rate from Mass Air Flow(g/s)4.54
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)99
+Fuel Rail Pressure(gauge)(kPa)303
+Engine RPM(rpm)    751
+Ignition Timing Advanece for #1 Cylinder(。)16.5
+Intake Air Temperature(。C)30
+Air Flow Rate from Mass Air Flow(g/s)4.54
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)99
+Fuel Rail Pressure(gauge)(kPa)297
+Engine RPM(rpm)    669
+Ignition Timing Advanece for #1 Cylinder(。)14.0
+Intake Air Temperature(。C)30
+Air Flow Rate from Mass Air Flow(g/s)4.54
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)100
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)   1017
+Ignition Timing Advanece for #1 Cylinder(。)23.0
+Intake Air Temperature(。C)30
+Air Flow Rate from Mass Air Flow(g/s)19.96
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)100
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1607
+Ignition Timing Advanece for #1 Cylinder(。)37.0
+Intake Air Temperature(。C)29
+Air Flow Rate from Mass Air Flow(g/s)20.70
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)100
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)   1773
+Ignition Timing Advanece for #1 Cylinder(。)40.0
+Intake Air Temperature(。C)29
+Air Flow Rate from Mass Air Flow(g/s)23.50
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)100
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   2062
+Ignition Timing Advanece for #1 Cylinder(。)22.0
+Intake Air Temperature(。C)28
+Air Flow Rate from Mass Air Flow(g/s)29.62
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)100
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1864
+Ignition Timing Advanece for #1 Cylinder(。)32.0
+Intake Air Temperature(。C)28
+Air Flow Rate from Mass Air Flow(g/s)29.52
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)99
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1969
+Ignition Timing Advanece for #1 Cylinder(。)32.5
+Intake Air Temperature(。C)28
+Air Flow Rate from Mass Air Flow(g/s)31.37
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)98
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   2079
+Ignition Timing Advanece for #1 Cylinder(。)32.0
+Intake Air Temperature(。C)27
+Air Flow Rate from Mass Air Flow(g/s)32.47
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)98
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   2199
+Ignition Timing Advanece for #1 Cylinder(。)32.5
+Intake Air Temperature(。C)27
+Air Flow Rate from Mass Air Flow(g/s)34.01
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)98
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   2329
+Ignition Timing Advanece for #1 Cylinder(。)32.5
+Intake Air Temperature(。C)27
+Air Flow Rate from Mass Air Flow(g/s)34.64
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)98
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   2150
+Ignition Timing Advanece for #1 Cylinder(。)17.5
+Intake Air Temperature(。C)27
+Air Flow Rate from Mass Air Flow(g/s)31.26
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)98
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   2000
+Ignition Timing Advanece for #1 Cylinder(。)31.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)29.36
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)98
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   2000
+Ignition Timing Advanece for #1 Cylinder(。)32.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)29.89
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)97
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   2021
+Ignition Timing Advanece for #1 Cylinder(。)32.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)29.52
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)96
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   2067
+Ignition Timing Advanece for #1 Cylinder(。)32.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)44.57
+----------------------
+Fuel system 1 statusOL-Drive
+Engine Coolant Temperature(。C)96
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   2450
+Ignition Timing Advanece for #1 Cylinder(。)23.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)57.98
+----------------------
+Fuel system 1 statusOL-Drive
+Engine Coolant Temperature(。C)95
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   3152
+Ignition Timing Advanece for #1 Cylinder(。)22.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)62.95
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)94
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   3293
+Ignition Timing Advanece for #1 Cylinder(。)26.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)64.37
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)94
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   3474
+Ignition Timing Advanece for #1 Cylinder(。)27.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)67.65
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)94
+Fuel Rail Pressure(gauge)(kPa)294
+Engine RPM(rpm)   2751
+Ignition Timing Advanece for #1 Cylinder(。)40.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)26.93
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)94
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)   2174
+Ignition Timing Advanece for #1 Cylinder(。)41.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)25.19
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)93
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1893
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)24.08
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)93
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1879
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)14.78
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)92
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)   1679
+Ignition Timing Advanece for #1 Cylinder(。)24.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)22.76
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)91
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1858
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)23.60
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)91
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1854
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)23.28
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)90
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1845
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)22.97
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)90
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1848
+Ignition Timing Advanece for #1 Cylinder(。)37.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)24.24
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)90
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1850
+Ignition Timing Advanece for #1 Cylinder(。)36.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)25.03
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)89
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1950
+Ignition Timing Advanece for #1 Cylinder(。)33.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)26.82
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)89
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1907
+Ignition Timing Advanece for #1 Cylinder(。)33.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)27.67
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)89
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1940
+Ignition Timing Advanece for #1 Cylinder(。)33.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)27.67
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)89
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1929
+Ignition Timing Advanece for #1 Cylinder(。)34.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)25.77
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)88
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1901
+Ignition Timing Advanece for #1 Cylinder(。)35.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)26.14
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)88
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1911
+Ignition Timing Advanece for #1 Cylinder(。)36.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)24.82
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)88
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1661
+Ignition Timing Advanece for #1 Cylinder(。)42.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)18.85
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)87
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1824
+Ignition Timing Advanece for #1 Cylinder(。)40.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)22.65
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)87
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1850
+Ignition Timing Advanece for #1 Cylinder(。)41.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)21.81
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)87
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1828
+Ignition Timing Advanece for #1 Cylinder(。)42.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)21.12
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)87
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1810
+Ignition Timing Advanece for #1 Cylinder(。)42.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)20.70
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)87
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1794
+Ignition Timing Advanece for #1 Cylinder(。)42.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)20.27
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)87
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1635
+Ignition Timing Advanece for #1 Cylinder(。)40.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)18.69
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)87
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1514
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)18.11
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)86
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1492
+Ignition Timing Advanece for #1 Cylinder(。)38.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)17.53
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)86
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1490
+Ignition Timing Advanece for #1 Cylinder(。)37.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)17.26
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)86
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1492
+Ignition Timing Advanece for #1 Cylinder(。)38.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)17.74
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)85
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1494
+Ignition Timing Advanece for #1 Cylinder(。)42.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)10.56
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)85
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1553
+Ignition Timing Advanece for #1 Cylinder(。)43.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)8.44
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)85
+Fuel Rail Pressure(gauge)(kPa)291
+Engine RPM(rpm)   1515
+Ignition Timing Advanece for #1 Cylinder(。)40.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)7.23
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)85
+Fuel Rail Pressure(gauge)(kPa)300
+Engine RPM(rpm)   1471
+Ignition Timing Advanece for #1 Cylinder(。)37.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)6.60
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)85
+Fuel Rail Pressure(gauge)(kPa)297
+Engine RPM(rpm)   1461
+Ignition Timing Advanece for #1 Cylinder(。)35.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)6.65
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)85
+Fuel Rail Pressure(gauge)(kPa)297
+Engine RPM(rpm)   1440
+Ignition Timing Advanece for #1 Cylinder(。)33.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)6.86
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)85
+Fuel Rail Pressure(gauge)(kPa)303
+Engine RPM(rpm)   1424
+Ignition Timing Advanece for #1 Cylinder(。)31.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)6.54
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)85
+Fuel Rail Pressure(gauge)(kPa)300
+Engine RPM(rpm)   1405
+Ignition Timing Advanece for #1 Cylinder(。)30.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)6.60
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)84
+Fuel Rail Pressure(gauge)(kPa)294
+Engine RPM(rpm)   1482
+Ignition Timing Advanece for #1 Cylinder(。)27.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)13.57
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)84
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)   1589
+Ignition Timing Advanece for #1 Cylinder(。)37.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)13.73
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)84
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1515
+Ignition Timing Advanece for #1 Cylinder(。)46.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)11.72
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)84
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1456
+Ignition Timing Advanece for #1 Cylinder(。)49.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)11.77
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)84
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1465
+Ignition Timing Advanece for #1 Cylinder(。)46.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)12.09
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)84
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1469
+Ignition Timing Advanece for #1 Cylinder(。)47.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)11.82
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1475
+Ignition Timing Advanece for #1 Cylinder(。)47.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)12.04
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1479
+Ignition Timing Advanece for #1 Cylinder(。)48.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)11.61
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)288
+Engine RPM(rpm)   1481
+Ignition Timing Advanece for #1 Cylinder(。)48.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)11.72
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1480
+Ignition Timing Advanece for #1 Cylinder(。)48.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)11.35
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1476
+Ignition Timing Advanece for #1 Cylinder(。)49.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)12.83
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1482
+Ignition Timing Advanece for #1 Cylinder(。)44.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)12.62
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1483
+Ignition Timing Advanece for #1 Cylinder(。)44.0
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)13.41
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)264
+Engine RPM(rpm)   1503
+Ignition Timing Advanece for #1 Cylinder(。)21.5
+Intake Air Temperature(。C)26
+Air Flow Rate from Mass Air Flow(g/s)19.54
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1480
+Ignition Timing Advanece for #1 Cylinder(。)36.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)19.22
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1470
+Ignition Timing Advanece for #1 Cylinder(。)36.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)20.06
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1462
+Ignition Timing Advanece for #1 Cylinder(。)34.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)21.81
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1421
+Ignition Timing Advanece for #1 Cylinder(。)32.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)22.76
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1412
+Ignition Timing Advanece for #1 Cylinder(。)29.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)22.02
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1404
+Ignition Timing Advanece for #1 Cylinder(。)28.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)21.81
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1409
+Ignition Timing Advanece for #1 Cylinder(。)31.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)21.60
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1406
+Ignition Timing Advanece for #1 Cylinder(。)29.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)24.08
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1410
+Ignition Timing Advanece for #1 Cylinder(。)26.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)22.76
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1430
+Ignition Timing Advanece for #1 Cylinder(。)28.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)20.80
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1443
+Ignition Timing Advanece for #1 Cylinder(。)37.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)16.10
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1475
+Ignition Timing Advanece for #1 Cylinder(。)41.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)17.05
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)264
+Engine RPM(rpm)   1560
+Ignition Timing Advanece for #1 Cylinder(。)41.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)16.63
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1513
+Ignition Timing Advanece for #1 Cylinder(。)48.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)13.62
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1513
+Ignition Timing Advanece for #1 Cylinder(。)47.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)10.45
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1587
+Ignition Timing Advanece for #1 Cylinder(。)43.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)8.66
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1551
+Ignition Timing Advanece for #1 Cylinder(。)28.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.94
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)264
+Engine RPM(rpm)   1756
+Ignition Timing Advanece for #1 Cylinder(。)41.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)18.95
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1754
+Ignition Timing Advanece for #1 Cylinder(。)47.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)17.00
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1654
+Ignition Timing Advanece for #1 Cylinder(。)46.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.73
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1636
+Ignition Timing Advanece for #1 Cylinder(。)46.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.26
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1600
+Ignition Timing Advanece for #1 Cylinder(。)50.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)13.99
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1614
+Ignition Timing Advanece for #1 Cylinder(。)47.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.05
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1611
+Ignition Timing Advanece for #1 Cylinder(。)45.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.73
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1601
+Ignition Timing Advanece for #1 Cylinder(。)44.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)16.47
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1592
+Ignition Timing Advanece for #1 Cylinder(。)43.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)16.74
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1589
+Ignition Timing Advanece for #1 Cylinder(。)40.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)18.11
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1562
+Ignition Timing Advanece for #1 Cylinder(。)39.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)18.37
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1555
+Ignition Timing Advanece for #1 Cylinder(。)39.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)17.26
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1545
+Ignition Timing Advanece for #1 Cylinder(。)42.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)16.89
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1558
+Ignition Timing Advanece for #1 Cylinder(。)41.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)16.21
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1553
+Ignition Timing Advanece for #1 Cylinder(。)42.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)16.53
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1552
+Ignition Timing Advanece for #1 Cylinder(。)43.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.42
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1557
+Ignition Timing Advanece for #1 Cylinder(。)44.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.73
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)285
+Engine RPM(rpm)   1564
+Ignition Timing Advanece for #1 Cylinder(。)44.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.84
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1577
+Ignition Timing Advanece for #1 Cylinder(。)43.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)16.21
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1588
+Ignition Timing Advanece for #1 Cylinder(。)44.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)15.20
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1591
+Ignition Timing Advanece for #1 Cylinder(。)46.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)14.73
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1606
+Ignition Timing Advanece for #1 Cylinder(。)46.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)14.73
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1611
+Ignition Timing Advanece for #1 Cylinder(。)46.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)14.41
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1614
+Ignition Timing Advanece for #1 Cylinder(。)51.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)12.04
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1707
+Ignition Timing Advanece for #1 Cylinder(。)43.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)10.13
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1669
+Ignition Timing Advanece for #1 Cylinder(。)44.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)8.29
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1605
+Ignition Timing Advanece for #1 Cylinder(。)41.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)7.07
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1539
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)6.97
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1463
+Ignition Timing Advanece for #1 Cylinder(。)36.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)6.91
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1414
+Ignition Timing Advanece for #1 Cylinder(。)34.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)6.70
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1345
+Ignition Timing Advanece for #1 Cylinder(。)32.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)6.39
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1298
+Ignition Timing Advanece for #1 Cylinder(。)30.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)6.23
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1228
+Ignition Timing Advanece for #1 Cylinder(。)29.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)5.86
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1132
+Ignition Timing Advanece for #1 Cylinder(。)28.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)5.75
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1105
+Ignition Timing Advanece for #1 Cylinder(。)27.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)6.44
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1183
+Ignition Timing Advanece for #1 Cylinder(。)26.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)7.55
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1430
+Ignition Timing Advanece for #1 Cylinder(。)25.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)7.55
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1357
+Ignition Timing Advanece for #1 Cylinder(。)24.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)7.39
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1270
+Ignition Timing Advanece for #1 Cylinder(。)24.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)7.18
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1244
+Ignition Timing Advanece for #1 Cylinder(。)23.5
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)7.07
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1316
+Ignition Timing Advanece for #1 Cylinder(。)30.0
+Intake Air Temperature(。C)25
+Air Flow Rate from Mass Air Flow(g/s)17.74
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)80
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1731
+Ignition Timing Advanece for #1 Cylinder(。)37.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)23.39
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1753
+Ignition Timing Advanece for #1 Cylinder(。)38.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)23.18
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1774
+Ignition Timing Advanece for #1 Cylinder(。)37.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)25.77
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1868
+Ignition Timing Advanece for #1 Cylinder(。)35.0
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)27.30
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1916
+Ignition Timing Advanece for #1 Cylinder(。)34.5
+Intake Air Temperature(。C)24
+Air Flow Rate from Mass Air Flow(g/s)27.40
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1950
+Ignition Timing Advanece for #1 Cylinder(。)34.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)27.56
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1969
+Ignition Timing Advanece for #1 Cylinder(。)37.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)23.60
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1935
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)23.87
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1956
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)25.77
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   2011
+Ignition Timing Advanece for #1 Cylinder(。)37.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)26.45
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1973
+Ignition Timing Advanece for #1 Cylinder(。)34.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)25.98
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1789
+Ignition Timing Advanece for #1 Cylinder(。)33.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)25.98
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1853
+Ignition Timing Advanece for #1 Cylinder(。)33.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)26.61
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1910
+Ignition Timing Advanece for #1 Cylinder(。)34.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)27.40
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1974
+Ignition Timing Advanece for #1 Cylinder(。)34.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)27.40
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1607
+Ignition Timing Advanece for #1 Cylinder(。)32.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)20.49
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1439
+Ignition Timing Advanece for #1 Cylinder(。)32.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)20.80
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1543
+Ignition Timing Advanece for #1 Cylinder(。)34.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)20.80
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1523
+Ignition Timing Advanece for #1 Cylinder(。)35.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)19.64
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1481
+Ignition Timing Advanece for #1 Cylinder(。)43.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)14.47
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1477
+Ignition Timing Advanece for #1 Cylinder(。)42.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)14.47
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1481
+Ignition Timing Advanece for #1 Cylinder(。)41.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)16.00
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1521
+Ignition Timing Advanece for #1 Cylinder(。)36.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)17.74
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1473
+Ignition Timing Advanece for #1 Cylinder(。)39.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)16.00
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)81
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1440
+Ignition Timing Advanece for #1 Cylinder(。)45.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)13.99
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)264
+Engine RPM(rpm)   1448
+Ignition Timing Advanece for #1 Cylinder(。)39.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)13.88
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1430
+Ignition Timing Advanece for #1 Cylinder(。)40.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)14.41
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1398
+Ignition Timing Advanece for #1 Cylinder(。)44.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)12.62
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1384
+Ignition Timing Advanece for #1 Cylinder(。)39.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)16.37
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1388
+Ignition Timing Advanece for #1 Cylinder(。)38.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)15.57
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1403
+Ignition Timing Advanece for #1 Cylinder(。)34.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)18.69
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)282
+Engine RPM(rpm)   1374
+Ignition Timing Advanece for #1 Cylinder(。)35.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)18.37
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)267
+Engine RPM(rpm)   1375
+Ignition Timing Advanece for #1 Cylinder(。)35.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)18.27
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1372
+Ignition Timing Advanece for #1 Cylinder(。)37.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)17.16
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1392
+Ignition Timing Advanece for #1 Cylinder(。)34.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)18.37
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1378
+Ignition Timing Advanece for #1 Cylinder(。)36.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)17.53
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1388
+Ignition Timing Advanece for #1 Cylinder(。)35.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)17.42
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)82
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1390
+Ignition Timing Advanece for #1 Cylinder(。)35.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)15.26
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)273
+Engine RPM(rpm)   1372
+Ignition Timing Advanece for #1 Cylinder(。)44.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)12.93
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1377
+Ignition Timing Advanece for #1 Cylinder(。)39.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)14.94
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1401
+Ignition Timing Advanece for #1 Cylinder(。)34.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)16.79
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1384
+Ignition Timing Advanece for #1 Cylinder(。)36.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)16.63
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)270
+Engine RPM(rpm)   1388
+Ignition Timing Advanece for #1 Cylinder(。)37.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)14.94
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)279
+Engine RPM(rpm)   1374
+Ignition Timing Advanece for #1 Cylinder(。)45.5
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)14.10
+----------------------
+Fuel system 1 statusCL
+Engine Coolant Temperature(。C)83
+Fuel Rail Pressure(gauge)(kPa)276
+Engine RPM(rpm)   1380
+Ignition Timing Advanece for #1 Cylinder(。)40.0
+Intake Air Temperature(。C)23
+Air Flow Rate from Mass Air Flow(g/s)14.94
+----------------------
+
+
+

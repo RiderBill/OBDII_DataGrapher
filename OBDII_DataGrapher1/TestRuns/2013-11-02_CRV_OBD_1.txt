@@ -1,0 +1,75 @@
+2013-11-02
+Carl's son's Honda CRV b4 starting engine.
+
+Read Codes
+P0301
+$0E  Generic
+Cylinder 1 Misfire Detected
+P0302
+$0E  Generic
+Cylinder 2 Misfire Detected
+P0303
+$0E  Generic
+Cylinder 3 Misfire Detected
+P0304
+$0E  Generic
+Cylinder 4 Misfire Detected
+P0300
+$0E  Generic
+Random/Multiple Cylinder Misfire Detected
+
+
+Read Codes
+P1399
+$0E  HONDA
+Please refer to vehicle service manual!
+
+
+View Freeze Frame
+DTCFRZF()        P0303
+FUELSYS1()          OL
+FUELSYS2()          --
+LOAD_PCT(%)       45.5
+ECT(¡£F)            366
+SHRTFT1(%)         0.0
+LONGFT1(%)         0.0
+MAP(psi)           1.0
+RPM(rpm)          1801
+VSS(mph)            11
+IAT(¡£F)            176
+TP(%)             17.3
+
+
+PHO2S Heater (Bank 1)
+ID()                00
+MOD()              $0E
+TEST()            0018
+MIN()             0015
+MAX()             ----
+STS()             Fail
+
+
+SHO2S Heater (Bank 1)
+ID()                00
+MOD()              $0E
+TEST()            0014
+MIN()             0015
+MAX()             ----
+STS()             Fail
+
+
+EVAP System
+ID()                01
+MOD()              $0E
+TEST()            000D
+MIN()             0004
+MAX()             ----
+STS()             Fail
+
+
+Modules Present
+ID: Protocol
+$0E: ISO 9141-2
+
+
+

@@ -1,0 +1,10 @@
+Live Data 3
+Number of DTCs stored in this ECU 0
+Fuel system 1 statusOL
+Calculated LOAD Value(%)100.0
+Engine Coolant Temperature(¡£C)20
+
+Engine RPM(rpm)    887
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(¡£)11.0
+

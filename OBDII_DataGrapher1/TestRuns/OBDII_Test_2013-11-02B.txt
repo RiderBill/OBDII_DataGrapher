@@ -1,0 +1,413 @@
+2013-11-02B
+Engine off
+ScanTool Live Data Record and Capture Test B
+
+Live Data
+Number of DTCs stored in this ECU 0
+Fuel system 1 statusOL
+Fuel System 2 status--
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)246
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)19
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Location of Oxygen SensorsB1S12--B2S12--
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+OBD requirements to which vehicle is designedOBD
+----------------------
+Number of DTCs stored in this ECU 0
+Fuel system 1 statusOL
+Fuel System 2 status--
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)246
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)19
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Location of Oxygen SensorsB1S12--B2S12--
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+OBD requirements to which vehicle is designedOBD
+----------------------
+Number of DTCs stored in this ECU 0
+Fuel system 1 statusOL
+Fuel System 2 status--
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)246
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)19
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Location of Oxygen SensorsB1S12--B2S12--
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+OBD requirements to which vehicle is designedOBD
+----------------------
+Number of DTCs stored in this ECU 0
+Fuel system 1 statusOL
+Fuel System 2 status--
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)246
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)19
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Location of Oxygen SensorsB1S12--B2S12--
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+OBD requirements to which vehicle is designedOBD
+----------------------
+Number of DTCs stored in this ECU 0
+Fuel system 1 statusOL
+Fuel System 2 status--
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)246
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)19
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Location of Oxygen SensorsB1S12--B2S12--
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+OBD requirements to which vehicle is designedOBD
+----------------------
+Number of DTCs stored in this ECU 0
+Fuel system 1 statusOL
+Fuel System 2 status--
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)246
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)19
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Location of Oxygen SensorsB1S12--B2S12--
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+OBD requirements to which vehicle is designedOBD
+----------------------
+Number of DTCs stored in this ECU 0
+Fuel system 1 statusOL
+Fuel System 2 status--
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)246
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)19
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Location of Oxygen SensorsB1S12--B2S12--
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+OBD requirements to which vehicle is designedOBD
+----------------------
+Number of DTCs stored in this ECU 0
+Fuel system 1 statusOL
+Fuel System 2 status--
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)246
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)19
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Location of Oxygen SensorsB1S12--B2S12--
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+OBD requirements to which vehicle is designedOBD
+----------------------
+Number of DTCs stored in this ECU 0
+Fuel system 1 statusOL
+Fuel System 2 status--
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)246
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)19
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Location of Oxygen SensorsB1S12--B2S12--
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+OBD requirements to which vehicle is designedOBD
+----------------------
+Number of DTCs stored in this ECU 0
+Fuel system 1 statusOL
+Fuel System 2 status--
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)243
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)19
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Location of Oxygen SensorsB1S12--B2S12--
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+OBD requirements to which vehicle is designedOBD
+----------------------
+Number of DTCs stored in this ECU 0
+Fuel system 1 statusOL
+Fuel System 2 status--
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)243
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)19
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Location of Oxygen SensorsB1S12--B2S12--
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+OBD requirements to which vehicle is designedOBD
+----------------------
+Number of DTCs stored in this ECU 0
+Fuel system 1 statusOL
+Fuel System 2 status--
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)243
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)19
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Location of Oxygen SensorsB1S12--B2S12--
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+OBD requirements to which vehicle is designedOBD
+----------------------
+Number of DTCs stored in this ECU 0
+Fuel system 1 statusOL
+Fuel System 2 status--
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)243
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)19
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Location of Oxygen SensorsB1S12--B2S12--
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+OBD requirements to which vehicle is designedOBD
+----------------------
+Number of DTCs stored in this ECU 0
+Fuel system 1 statusOL
+Fuel System 2 status--
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)243
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)19
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)18.4
+Location of Oxygen SensorsB1S12--B2S12--
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+OBD requirements to which vehicle is designedOBD
+----------------------
+Number of DTCs stored in this ECU 0
+Fuel system 1 statusOL
+Fuel System 2 status--
+Calculated LOAD Value(%)0.0
+Engine Coolant Temperature(。C)17
+Short Term Fuel Trim -Bank 1(%)42.2
+Long Term Fuel Trim - Bank 1(%)0.0
+Short Term Fuel Trim -Bank 2(%)42.2
+Long Term Fuel Trim - Bank 2(%)0.0
+Fuel Rail Pressure(gauge)(kPa)243
+Engine RPM(rpm)      0
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(。)0.0
+Intake Air Temperature(。C)19
+Air Flow Rate from Mass Air Flow(g/s)0.05
+Absolute Throttle Position(%)91.0
+Location of Oxygen SensorsB1S12--B2S12--
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 1-Sensor 2(%)N/A
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 1(%)42.2
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+Short Term Fuel Trim Bank 2-Sensor 2(%)99.2
+OBD requirements to which vehicle is designedOBD
+----------------------
+
+
+

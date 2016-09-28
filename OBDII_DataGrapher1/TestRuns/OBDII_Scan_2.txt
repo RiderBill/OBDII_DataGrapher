@@ -1,0 +1,23 @@
+Live Data 2
+Number of DTCs stored in this ECU 0
+
+Calculated LOAD Value(%)100.0
+Engine Coolant Temperature(¡£C)20
+Short Term Fuel Trim -Bank 1(%)75.0
+Long Term Fuel Trim - Bank 1(%)0.0
+
+Long Term Fuel Trim - Bank 2(%)10.2
+Fuel Rail Pressure(gauge)(kPa)303
+Engine RPM(rpm)   1485
+Vehicle Speed Sensor(km/h)0
+Ignition Timing Advanece for #1 Cylinder(¡£)19.0
+Intake Air Temperature(¡£C)25
+Air Flow Rate from Mass Air Flow(g/s)12.04
+Absolute Throttle Position(%)18.4
+Location of Oxygen SensorsB1S12--B2S12--
+Oxygen Sensor Output Voltage Bank 1-Sensor 1(V)0.000
+Oxygen Sensor Output Voltage Bank 1-Sensor 2(V)0.000
+Oxygen Sensor Output Voltage Bank 2-Sensor 1(V)0.000
+Oxygen Sensor Output Voltage Bank 2-Sensor 2(V)0.000
+OBD requirements to which vehicle is designedOBD
+----------------------
